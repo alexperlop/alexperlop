@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @alexperlop
+- 👀 I'm interested in JavaScript
+- 🌱 I'm currently learning Python
+- 💞️ It would be a pleasure to collaborate with anyone
