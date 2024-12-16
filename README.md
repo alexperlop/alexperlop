@@ -1,16 +1,12 @@
-<h1 style="color:blue">Hi there, I'm Alex </h1>
-
-              
-
+<h1>Hi there, I'm Alex </h1>
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/pUVOeIagS1rrqsYQJe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe">via GIPHY</a></p>
 **🙎 Alex Pérez | 💻 Full Stack Developer | 🛸 Spain , SP**
 
 ⚡️I don’t trust people who write JS with ;  in the end lines⚡️
 
 
 I'm 30 years young Full-Stack developer from Spain.
-🥀 Learning Python & AI
-
-with Javascript, Typescript, React and 69 others.
+🐍  Learning Python & AI 🤖
 
 🏋️ Athlete and sports lover
 
@@ -24,7 +20,7 @@ Full Stack | Competitive Programming
 
 
 
-**Languages and Tools...**
+**Main Languages ...**
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
       <img src="https://github.com/user-attachments/assets/095608f7-bdda-427a-8d99-04e8620e7fe0" alt="html" width="50" height="50"/>
       <img src="https://github.com/user-attachments/assets/ff59ea4c-10e9-4860-8b47-9d97b46294f9" alt="css" width="50" height="50" />
@@ -33,17 +29,10 @@ Full Stack | Competitive Programming
       <img src="https://github.com/user-attachments/assets/1fd22b2f-b2fd-40ca-a7c7-2c323d9b711d" alt="react" width="50" height="50"/>
   </div>
 
-
-- What i do
-
-
-
-
-🤝 Support
-🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!
+🤝 Support, contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!
 
 💙 If you like my projects, Give them ⭐ and Share it with friends!
 
-Made with ❤️ in Spain
+Made with in Spain 🪐
 
 ⚡️Stay awesome!⚡️
