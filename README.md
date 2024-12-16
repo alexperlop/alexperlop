@@ -1,4 +1,7 @@
 <h1>Hi there, I'm Alex </h1>
+![image](https://github.com/user-attachments/assets/1ef09c06-e5ad-4c99-aa0c-f7f528344fc2)
+
+
 
 **🙎 Alex Pérez | 💻 Full Stack Developer | 🛸 Spain , SP**
 
