@@ -1,8 +1,8 @@
-Hi there, I'm Alex 
+<h1 style="color:blue">Hi there, I'm Alex </h1>
 
               
 
- 🙎 Alex Pérez | 💻 Full Stack Developer | 🛸 Spain , SP 
+**🙎 Alex Pérez | 💻 Full Stack Developer | 🛸 Spain , SP**
 
 ⚡️I don’t trust people who write JS with ;  in the end lines⚡️
 
@@ -24,7 +24,7 @@ Full Stack | Competitive Programming
 
 
 
-- Languages and Tools...
+**Languages and Tools...**
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
       <img src="https://github.com/user-attachments/assets/095608f7-bdda-427a-8d99-04e8620e7fe0" alt="html" width="50" height="50"/>
       <img src="https://github.com/user-attachments/assets/ff59ea4c-10e9-4860-8b47-9d97b46294f9" alt="css" width="50" height="50" />
