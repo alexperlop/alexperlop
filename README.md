@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Alex </h1>
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/pUVOeIagS1rrqsYQJe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe">via GIPHY</a></p>
+
 **🙎 Alex Pérez | 💻 Full Stack Developer | 🛸 Spain , SP**
 
 ⚡️I don’t trust people who write JS with ;  in the end lines⚡️
