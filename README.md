@@ -25,8 +25,8 @@ Full Stack | Competitive Programming
 
 
 - Languages and Tools...
-  <ul style="list-style:none">
-    <li style="list-style:none">
+  <ul style="list-style-type:none; margin:0; padding:0;">
+    <li>
       <img src="https://github.com/user-attachments/assets/095608f7-bdda-427a-8d99-04e8620e7fe0" alt="html"/>
     </li>
     <li>
