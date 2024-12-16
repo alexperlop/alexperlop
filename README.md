@@ -25,13 +25,12 @@ Full Stack | Competitive Programming
 
 
 - Languages and Tools...
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/alexperlop/alexperlop"><img src="https://imgs.search.brave.com/zvjJ5doqGwuNTGlHWNvIUQZBIibVG4MhslyXHuV5ZT4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjViZGNlZjEw/MTRjMGI1ZTQ4OWMu/cG5n" alt="html" style="max-width: 100%;"></a>    
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/alexperlop/alexperlop"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="typescript" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/alexperlop/alexperlop"><img src="https://github.com/user-attachments/assets/d5fb6974-a009-48f8-be7a-b32498f9b3c7" alt="js" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;"></a>
-  <a target="_blank" re
+  ![image](https://github.com/user-attachments/assets/095608f7-bdda-427a-8d99-04e8620e7fe0)
+  ![image](https://github.com/user-attachments/assets/ff59ea4c-10e9-4860-8b47-9d97b46294f9)
+  ![image](https://github.com/user-attachments/assets/53a83d31-c15d-4f35-8730-30ad9a88769b)
+  ![image](https://github.com/user-attachments/assets/c45107b9-2f48-4218-b403-5a55e58db4e2)
+  ![image](https://github.com/user-attachments/assets/1fd22b2f-b2fd-40ca-a7c7-2c323d9b711d)
+
 
 - What i do
 
