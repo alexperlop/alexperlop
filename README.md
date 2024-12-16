@@ -1,6 +1,5 @@
 <h1>Hi there, I'm Alex </h1>
-![image](https://github.com/user-attachments/assets/1ef09c06-e5ad-4c99-aa0c-f7f528344fc2)
-
+<div class="Gif" style="width: 833px; height: 498.462px;"><img src="https://media1.tenor.com/m/rz7YXvXEWvIAAAAd/core-keeper-core.gif" width="833" height="498.4618473895583" alt="Core Keeper Core GIF" style="max-width: 833px;"></div>
 
 
 **🙎 Alex Pérez | 💻 Full Stack Developer | 🛸 Spain , SP**
